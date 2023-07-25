@@ -10,7 +10,7 @@ do
   echo $i
 done
 
-for table in {2 20 2}
+for table in {2;20;2}
 do
   echo "table of 2:$table"
 done
