@@ -1,3 +1,3 @@
-         #!/bin/bash
-         echo "hello world"
-         echo "$1"
+#!/bin/bash
+echo "hello world"
+echo "$1"
