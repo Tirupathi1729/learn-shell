@@ -9,3 +9,8 @@ for i in 1 2 3 4 5
 do
   echo $i
 done
+
+for table in {2..20..2}
+do
+  echo "table of 2:$table"
+done
